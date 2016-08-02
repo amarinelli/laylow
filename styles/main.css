@@ -9,6 +9,7 @@ html, body {
     width: 350px;
     margin: auto;
     display: block;
+    padding-top: 100px;
 }
 
 /* Medium devices (desktops, 750px and up) */
@@ -24,5 +25,6 @@ html, body {
 @media (min-width: 1200px) {
     .logo {
         width: 1200px;
+        padding-top: 50px;
     }
 }
